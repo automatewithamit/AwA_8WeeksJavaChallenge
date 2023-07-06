@@ -26,4 +26,9 @@ public class VariableAndDataType {
 
     }
 
+    public void createFacebookPost(){
+
+    }
+
+
 }
