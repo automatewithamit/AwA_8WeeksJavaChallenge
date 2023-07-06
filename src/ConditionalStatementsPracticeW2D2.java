@@ -172,6 +172,7 @@ public class ConditionalStatementsPracticeW2D2 {
                 break;
             case 3:
                 System.out.println("Wednesday");
+                System.out.println("making change here as well");
                 break;
             case 4:
                 System.out.println("Thursday");
@@ -199,7 +200,9 @@ public class ConditionalStatementsPracticeW2D2 {
     }
 
 
+public void learnGithub(){
 
+}
 
 
 
